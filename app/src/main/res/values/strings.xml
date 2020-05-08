@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Civilization 6 Leader Picker</string>
+    <string name="press_the_button_to_choose">Press the button to pick!</string>
+    <string name="choose">Choose</string>
+</resources>

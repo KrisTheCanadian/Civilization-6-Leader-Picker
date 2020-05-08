@@ -1,0 +1,2 @@
+rootProject.name='Civilization 6 Leader Picker'
+include ':app'
